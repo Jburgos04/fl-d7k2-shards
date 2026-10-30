@@ -1,0 +1,95 @@
+{
+  "version": "NAL 2026F",
+  "generated": "2026-10-29",
+  "counties": {
+    "miamidade": {
+      "n": 938308,
+      "shards": 819,
+      "gz_mb": 23.31
+    },
+    "broward": {
+      "n": 754509,
+      "shards": 812,
+      "gz_mb": 19.34
+    },
+    "palmbeach": {
+      "n": 657468,
+      "shards": 651,
+      "gz_mb": 18.21
+    },
+    "lee": {
+      "n": 563025,
+      "shards": 624,
+      "gz_mb": 15.77
+    },
+    "hillsborough": {
+      "n": 528132,
+      "shards": 508,
+      "gz_mb": 15.4
+    },
+    "orange": {
+      "n": 494750,
+      "shards": 622,
+      "gz_mb": 14.75
+    },
+    "polk": {
+      "n": 436919,
+      "shards": 444,
+      "gz_mb": 11.87
+    },
+    "duval": {
+      "n": 404069,
+      "shards": 410,
+      "gz_mb": 11.35
+    },
+    "brevard": {
+      "n": 351104,
+      "shards": 395,
+      "gz_mb": 9.8
+    },
+    "pasco": {
+      "n": 339666,
+      "shards": 360,
+      "gz_mb": 8.69
+    },
+    "volusia": {
+      "n": 312278,
+      "shards": 277,
+      "gz_mb": 8.52
+    },
+    "marion": {
+      "n": 286195,
+      "shards": 188,
+      "gz_mb": 5.98
+    },
+    "santarosa": {
+      "n": 123267,
+      "shards": 95,
+      "gz_mb": 2.76
+    },
+    "highlands": {
+      "n": 112764,
+      "shards": 103,
+      "gz_mb": 2.97
+    },
+    "indianriver": {
+      "n": 95583,
+      "shards": 82,
+      "gz_mb": 2.62
+    },
+    "nassau": {
+      "n": 60305,
+      "shards": 63,
+      "gz_mb": 1.63
+    },
+    "hendry": {
+      "n": 35795,
+      "shards": 24,
+      "gz_mb": 0.82
+    }
+  },
+  "total_records": 6494137,
+  "total_shards": 6477,
+  "total_gz_mb": 173.79,
+  "total_files": 6514
+}
